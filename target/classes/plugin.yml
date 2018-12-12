@@ -1,0 +1,41 @@
+name: Core
+version: 1.4
+main: me.devkevin.core.CorePlugin
+author: DevKevin
+commands:
+  setrank:
+  kick:
+  ban:
+  tempban:
+  mute:
+  tempmute:
+  unban:
+  unmute:
+  history:
+  blacklist:
+  unblacklist:
+  shutdown:
+  report:
+  ping:
+  r:
+  register:
+  auth:
+  tpm:
+  clearchat:
+     aliases: [cc]
+  discord:
+  teamspeak:
+      aliases: [ts]
+  mutechat:
+      aliases: [mc, mchat]
+  staffchat:
+      aliases: [sc]
+  broadcast:
+      aliases: [bc]
+  freeze:
+      aliases: [ss]
+  msg:
+      aliases: [w, m, message]
+
+
+
